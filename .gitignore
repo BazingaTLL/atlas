@@ -1,0 +1,12 @@
+.ruff_cache/
+.vscode/
+.idea/
+.venv/
+build/
+__pycache__/
+*.whl
+*.exe
+src/atlas/*.json
+*config.json
+.coverage
+.DS_Store
